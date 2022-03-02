@@ -1,0 +1,2 @@
+# EmptyGit
+Public Git
